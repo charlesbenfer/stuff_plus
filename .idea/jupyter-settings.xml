@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="$PROJECT_DIR$/../anaconda3" />
+              <option name="sdkName" value="C:\Users\charl\anaconda3" />
             </JupyterConnectionParameters>
           </value>
         </entry>
